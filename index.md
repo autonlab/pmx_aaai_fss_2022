@@ -19,6 +19,7 @@ It is time to revive it and have the community reflect of the current state of a
 ### Specific Areas of Interest
 
 - Readying Maintenance and Logistics Data for Artificial
+- - Work on data processing pipelines and related enabling technologies to support AI technology.
 - Analytical Frameworks
 - Impact Assessments
 - Implementation Strategies
