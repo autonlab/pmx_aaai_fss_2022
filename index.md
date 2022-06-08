@@ -19,7 +19,33 @@ It is time to revive it and have the community reflect of the current state of a
 ### Specific Areas of Interest
 
 - Readying Maintenance and Logistics Data for Artificial
-- - Work on data processing pipelines and related enabling technologies to support AI technology.
+    - Work on data processing pipelines and related enabling technologies to support AI technology.
 - Analytical Frameworks
 - Impact Assessments
 - Implementation Strategies
+
+### Symposium Format and Schedule
+
+- Keynote Speakers
+    - Artur Dubrawski, PhD, Alumni Research Professor of Computer Science, Carnegie Mellon University
+    - TBD Government
+    - TBD Industry
+- Panel Discussions
+    - Moderated discussion on the Future of PMx (Panelists TBD)
+    - Moderated discussion on Lessons Learned in PMx (Panelists TBD)
+    - Unmoderated student panel (Panelists TBD)
+- Poster Session
+- Invited Talks
+
+### Organizing Committee
+
+- Chair: Dr. Nicholas Gisolfi, Research Scientist, Auton Lab, Carnegie Mellon University
+- Dr. Artur Dubrawski, Alumni Research Professor of Computer Science, Auton Lab, Carnegie Mellon University
+- Dr. Stephen Robinson, Professor of Aerospace Engineering, University of California
+- Dr. Abdel-Moez Bayoumi, Professor of Mechanical Engineering, University of South Carolina
+- Mr. David Alvord, Senior Research Engineer, Georgia Tech Research Institute
+
+### Program Committee
+
+- Co-Chair: Dr. Artur Dubrawski, Alumni Research Professor of Computer Science, Auton Lab, Carnegie Mellon University
+- Co-Chair: Dr. Dragos Margineantu, AI Chief Technologist, Boeing Research & Technology
