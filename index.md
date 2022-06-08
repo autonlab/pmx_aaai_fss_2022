@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Artificial Intelligence for Predictive Maintenance (PMx)
 
-You can use the [editor on GitHub](https://github.com/autonlab/pmx_aaai_fss_2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Description of the Symposium
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Complex systems degrade over time, and continued maintenance is required to ensure peak performance.
+The cost of maintenance activities tends to exceed system acquisition cost.
+Technically, maintenance of well-engineered systems is not difficult on its own.
+What is hard is to know when and what to maintain.
+Traditional approaches to managing maintenance activities rely on scheduled maintenance or condition-based maintenance.
+Predictive Maintenance (PMx) paradigm complements them with the ability to forecast maintenance needs into the future, allowing to reduce the monetary and logistical costs of upkeep of critical systems, boost operational safety, as well as reduce system down-time due to unexpected failures leading to unscheduled maintenance.
+Past successes show that PMx is capable of reducing cost by forecasting need, however, there are remaining challenges and untapped opportunities in transferring this technology at-scale in real-world settings.
+Typically, legacy systems have not been designed with predictive capabilities in mind, the reliability of pertinent data may vary, the existing information pipelines may not be tailored to straightforward application of advanced analytics, valuable human expertise is not effectively harnessed, the existing practice and culture may intimidate innovation, amounts and complexities of pertinent data, information, and knowledge may exceed human capacity to internalize and reason about, etc.
+Many of these outstanding issues can be resolved with Artificial Intelligence.
 
-### Markdown
+This symposium aims to bring together researchers and practitioners across academia, industry, and government in order to inventory active research thrusts and further opportunities in the field of AI-driven PMx, as well as fuel long-term collaborative efforts which will accelerate the progress of adopting AI across entire organizations that maintain critical systems.
+Previous event of this type (AAAI Fall Symposium: AI for Prognostics\footnote{https://aaai.org/Press/Reports/Symposia/Fall/fs-07-02.php}) took place in 2007.
+It is time to revive it and have the community reflect of the current state of affairs and on the future of this important area of technical and societal interest.   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Specific Areas of Interest
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/autonlab/pmx_aaai_fss_2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Readying Maintenance and Logistics Data for Artificial
+- Analytical Frameworks
+- Impact Assessments
+- Implementation Strategies
