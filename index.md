@@ -39,11 +39,11 @@ It is time to revive it and have the community reflect of the current state of a
     - TBD Government
     - TBD Industry
 - Panel Discussions
-    - Moderated discussion on the Future of PMx (Panelists TBD)
-    - Moderated discussion on Lessons Learned in PMx (Panelists TBD)
-    - Unmoderated student panel (Panelists TBD)
+    - Moderated discussion on the Future of PMx (Panelists TBD): Sharing high-priority challenges and discussing vision for the future of PMx and the role of AI in this context. The goal is to spawn a discussion about what the immediate and long-term future of PMx and to brainstorm how to best address rising needs.
+    - Moderated discussion on Lessons Learned in PMx (Panelists TBD): Sharing success and failure stories related to AI-driven PMx. The goal for this session is to learn from PMx veterans -  what works, what failed?
+    - Unmoderated student panel (Panelists TBD): Plenty of PMx work is happening outside academia, which means that students and junior researchers in academia may not have full visibility into future career opportunities. A panel of representatives from government and industry will be invited to respond to student Q/A.
 - Poster Session
-- Invited Talks
+- Invited Talks: We will encourage authors to submit previously unpublished research related to any areas of interest in AI application to predictive maintenance. We will be accepting and double-blind peer-reviewing submissions of up to 6 pages in length. We will assemble proceedings from the event, which will archive the state of the field.
 
 ### Organizing Committee
 
