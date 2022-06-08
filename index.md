@@ -13,16 +13,24 @@ Typically, legacy systems have not been designed with predictive capabilities in
 Many of these outstanding issues can be resolved with Artificial Intelligence.
 
 This symposium aims to bring together researchers and practitioners across academia, industry, and government in order to inventory active research thrusts and further opportunities in the field of AI-driven PMx, as well as fuel long-term collaborative efforts which will accelerate the progress of adopting AI across entire organizations that maintain critical systems.
-Previous event of this type (AAAI Fall Symposium: AI for Prognostics\footnote{https://aaai.org/Press/Reports/Symposia/Fall/fs-07-02.php}) took place in 2007.
+Previous event of this type ([AAAI Fall Symposium: AI for Prognostics][1]) took place in 2007.
 It is time to revive it and have the community reflect of the current state of affairs and on the future of this important area of technical and societal interest.   
 
 ### Specific Areas of Interest
 
 - Readying Maintenance and Logistics Data for Artificial
     - Work on data processing pipelines and related enabling technologies to support AI technology.
+    - Assessing quality of data and informing data engineering efforts to remedy quality issues
+    - Examples include, but are not limited to, transforming data lakes into AI-ready data warehouses; techniques for data sketching and compression, featurizing, annotating, or curating data from multiple diverse sources; assessing and assuring data quality; refinement techniques to improve data quality for downstream AI systems
 - Analytical Frameworks
+    - Work on incorporating various modeling paradigms into PMx contexts.
+    - Examples include, but are not limited to, time-series forecasting; remaining useful life; digital twins; digital threads; simulation; human-centric incorporation of domain knowledge; time to event prediction; component health modeling; decision support systems; failure outbreak detection across fleets of equipment; fault analysis; engineering assistance; additive manufacturing.
 - Impact Assessments
+    - Work on defining and applying metrics of success in PMx contexts and translating AI evaluation metrics (e.g. accuracy) into business metrics (e.g. increased readiness).
+    - Examples include, but are not limited to, requirements-driven AI; ongoing assessment of model performance; model assurances and certifications.
 - Implementation Strategies
+    - Work on implementation of research and development in practice.
+    - Examples include, but are not limited to, justifying and assessing the impact of changes in procedure, policy, logistics, or culture that support adoption of AI-driven PMx solutions; proof of concept implementation phase; enterprise-wide roll out; augmenting human maintainer capabilities; immersion of AI-PMx solutions into existing Mx processes; change management; success stories.
 
 ### Symposium Format and Schedule
 
@@ -49,3 +57,5 @@ It is time to revive it and have the community reflect of the current state of a
 
 - Co-Chair: Dr. Artur Dubrawski, Alumni Research Professor of Computer Science, Auton Lab, Carnegie Mellon University
 - Co-Chair: Dr. Dragos Margineantu, AI Chief Technologist, Boeing Research & Technology
+
+[1]:<https://aaai.org/Press/Reports/Symposia/Fall/fs-07-02.php>
