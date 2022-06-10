@@ -2,19 +2,16 @@
 
 ### Description of the Symposium
 
-Complex, physical systems degrade over time, and continued maintenance is required to ensure peak performance.
-Maintenance of well-engineered systems is often straightforward, yet significant challenges lie in knowing when and what to maintain.
-Traditional approaches to managing maintenance activities rely on scheduled maintenance or condition-based maintenance.
-Predictive Maintenance (PMx) paradigm complements them with the ability to forecast needs into the future, allowing to reduce the monetary and logistical costs of upkeep of critical systems, boost operational safety, as well as reduce system down-time due to unexpected failures leading to unscheduled maintenance.
-Past successes show that PMx is capable of reducing cost by forecasting need, however, there are remaining challenges and untapped opportunities in transferring this technology at-scale in real-world settings.
-Typically, legacy systems have not been designed with predictive capabilities in mind, the reliability of pertinent data may vary, the existing information pipelines may not be tailored to straightforward application of advanced analytics, valuable human expertise is not effectively harnessed, the existing practice and culture may intimidate innovation, amounts and complexities of pertinent data, information, and knowledge may exceed human capacity to internalize and reason about, etc.
+Complex, physical systems degrade over time, and continued maintenance is required to ensure their peak performance.
+Upkeep of well-engineered systems is often straightforward, yet significant challenges lie in knowing when and what to maintain.
+Traditional approaches to managing maintenance activities rely on scheduled or condition-based approaches.
+Predictive Maintenance (PMx) paradigm complements them with the ability to forecast needs into the future, reducing monetary and logistical burden of ownership, boosting operational safety, and reducing system down-time due to unexpected failures.
+Past successes show that PMx is capable of achieving those goals, however, there are remaining challenges and untapped opportunities in applying this technology at-scale in real-world settings.
 Many of these outstanding issues can be resolved with Artificial Intelligence.
 
 This symposium aims to bring together researchers and practitioners across academia, industry, and government in order to discuss challenges, approaches, and needs in the field of AI-driven PMx, as well as fuel collaborative efforts which will accelerate the progress of adopting AI across entire organizations that maintain critical systems.
-Previous event of this type ([AAAI Fall Symposium: AI for Prognostics][1]) took place in 2007.
-It is time to revive it and have the community reflect of the current state of affairs and on the future of this important area of technical and societal interest.   
 
-### Specific Areas of Interest
+### Topic Areas Include (but are not limited to)
 
 - **Readying maintenance, logistics, and/or systems data for AI**
     - Work on curating, cleaning, featurizing, annotating, and/or sketching complex data from critical systems.
@@ -24,15 +21,15 @@ It is time to revive it and have the community reflect of the current state of a
     - Work on defining metrics of success and translating AI evaluation metrics (e.g. accuracy) into business metrics (e.g. reduced down-time).
 - **Implementation Strategies**
     - Work on implementation of research and development in practice.
-- **All other works using AI to maintain peak operation of cyber-phyical systems**
+- **Using AI to maintain peak operation of cyber-physical systems**
 
 ### Symposium Format
 
 - **Invited Talks**
-    - We encourage authors to submit previously unpublished research related to any areas of interest in AI application to predictive maintenance for critical systems.
-    - We encourage the submission of student research
-    -  We will be accepting and double-blind peer-reviewing **submissions of up to 6 pages in length**. 
-    - We will assemble proceedings from the event.
+    - The symposium will feature sessions of talks, organized by topic area, to present submitted work.
+    - Unpublished works up to **6 pages in length** are eligible for submission.
+    - All submissions will be blind reviewed.
+    - Submit to EasyChair (link to be created shortly)
 - **Keynote Speakers**
     - Artur Dubrawski, PhD, Alumni Research Professor of Computer Science, Carnegie Mellon University
     - TBD speaker from government sector
@@ -47,14 +44,15 @@ It is time to revive it and have the community reflect of the current state of a
     - A one page position paper related to the poster's topic will be reviewed by the program committee to ensure posters fall under the scope of the symposium.
 
 ### Organizing Committee
-- Chair: Dr. Nicholas Gisolfi, Research Scientist, Auton Lab, Carnegie Mellon University
+- **Chair:** Dr. Nicholas Gisolfi, Research Scientist, Auton Lab, Carnegie Mellon University
 - Dr. Artur Dubrawski, Alumni Research Professor of Computer Science, Auton Lab, Carnegie Mellon University
-- Dr. Stephen Robinson, Professor of Aerospace Engineering, University of California
 - Dr. Abdel-Moez Bayoumi, Professor of Mechanical Engineering, University of South Carolina
 - Mr. David Alvord, Senior Research Engineer, Georgia Tech Research Institute
+- Dr. Stephen Robinson, Professor of Aerospace Engineering, University of California
+
 
 ### Program Committee
-- Co-Chair: Dr. Artur Dubrawski, Alumni Research Professor of Computer Science, Auton Lab, Carnegie Mellon University
-- Co-Chair: Dr. Dragos Margineantu, AI Chief Technologist, Boeing Research & Technology
+- **Co-Chair:** Dr. Artur Dubrawski, Alumni Research Professor of Computer Science, Auton Lab, Carnegie Mellon University
+- **Co-Chair:** Dr. Dragos Margineantu, AI Chief Technologist, Boeing Research & Technology
 
 [1]:<https://aaai.org/Press/Reports/Symposia/Fall/fs-07-02.php>
