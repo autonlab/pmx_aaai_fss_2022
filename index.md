@@ -1,4 +1,4 @@
-## Artificial Intelligence for Predictive Maintenance (PMx)
+## Artificial Intelligence for Predictive Maintenance on Critical Systems
 
 ### Description of the Symposium
 
@@ -18,35 +18,37 @@ It is time to revive it and have the community reflect of the current state of a
 
 ### Specific Areas of Interest
 
-- Readying Maintenance and Logistics Data for Artificial
-    - Work on data processing pipelines and related enabling technologies to support AI technology.
-    - Assessing quality of data and informing data engineering efforts to remedy quality issues
-    - Examples include, but are not limited to, transforming data lakes into AI-ready data warehouses; techniques for data sketching and compression, featurizing, annotating, or curating data from multiple diverse sources; assessing and assuring data quality; refinement techniques to improve data quality for downstream AI systems
-- Analytical Frameworks
-    - Work on incorporating various modeling paradigms into PMx contexts.
-    - Examples include, but are not limited to, time-series forecasting; remaining useful life; digital twins; digital threads; simulation; human-centric incorporation of domain knowledge; time to event prediction; component health modeling; decision support systems; failure outbreak detection across fleets of equipment; fault analysis; engineering assistance; additive manufacturing.
-- Impact Assessments
-    - Work on defining and applying metrics of success in PMx contexts and translating AI evaluation metrics (e.g. accuracy) into business metrics (e.g. increased readiness).
-    - Examples include, but are not limited to, requirements-driven AI; ongoing assessment of model performance; model assurances and certifications.
+- Readying maintenance, logistics, and/or systems data for AI
+    - Work on curating, cleaning, featurizing, annotating, and/or sketching complex data from critical systems.
+- Analytical frameworks for critical system prognostics
+    - Work on defining predictive tasks and applying various modeling paradigms to support prognostics
+- Impact assessments of AI
+    - Work on defining metrics of success and translating AI evaluation metrics (e.g. accuracy) into business metrics (e.g. reduced down-time).
 - Implementation Strategies
     - Work on implementation of research and development in practice.
-    - Examples include, but are not limited to, justifying and assessing the impact of changes in procedure, policy, logistics, or culture that support adoption of AI-driven PMx solutions; proof of concept implementation phase; enterprise-wide roll out; augmenting human maintainer capabilities; immersion of AI-PMx solutions into existing Mx processes; change management; success stories.
+- All other works using AI to maintain peak operation of cyber-phyical systems.
 
-### Symposium Format and Schedule
+### Symposium Format
 
-- Keynote Speakers
+- **Invited Talks**
+    - We encourage authors to submit previously unpublished research related to any areas of interest in AI application to predictive maintenance for critical systems.
+    - We encourage the submission of student research
+    -  We will be accepting and double-blind peer-reviewing **submissions of up to 6 pages in length**. 
+    - We will assemble proceedings from the event.
+- **Keynote Speakers**
     - Artur Dubrawski, PhD, Alumni Research Professor of Computer Science, Carnegie Mellon University
-    - TBD Government
-    - TBD Industry
-- Panel Discussions
-    - Moderated discussion on the Future of PMx (Panelists TBD): Sharing high-priority challenges and discussing vision for the future of PMx and the role of AI in this context. The goal is to spawn a discussion about what the immediate and long-term future of PMx and to brainstorm how to best address rising needs.
-    - Moderated discussion on Lessons Learned in PMx (Panelists TBD): Sharing success and failure stories related to AI-driven PMx. The goal for this session is to learn from PMx veterans -  what works, what failed?
-    - Unmoderated student panel (Panelists TBD): Plenty of PMx work is happening outside academia, which means that students and junior researchers in academia may not have full visibility into future career opportunities. A panel of representatives from government and industry will be invited to respond to student Q/A.
-- Poster Session
-- Invited Talks: We will encourage authors to submit previously unpublished research related to any areas of interest in AI application to predictive maintenance. We will be accepting and double-blind peer-reviewing submissions of up to 6 pages in length. We will assemble proceedings from the event, which will archive the state of the field.
+    - TBD speaker from government sector
+    - TBD speaker from industrial sector
+- **Panel Discussions**
+    - Future of Predictive Maintenance (Panelists TBD)
+    - Lessons Learned in Predictive Maintenance (Panelists TBD)
+    - Student panel (Panelists TBD)
+    - Data Privacy (Panelists TBD)
+- **Poster Session**
+    - All attendees may choose to present a poster at the symposium.
+    - A one page position paper related to the poster's topic will be reviewed by the program committee to ensure posters fall under the scope of the symposium.
 
 ### Organizing Committee
-
 - Chair: Dr. Nicholas Gisolfi, Research Scientist, Auton Lab, Carnegie Mellon University
 - Dr. Artur Dubrawski, Alumni Research Professor of Computer Science, Auton Lab, Carnegie Mellon University
 - Dr. Stephen Robinson, Professor of Aerospace Engineering, University of California
@@ -54,7 +56,6 @@ It is time to revive it and have the community reflect of the current state of a
 - Mr. David Alvord, Senior Research Engineer, Georgia Tech Research Institute
 
 ### Program Committee
-
 - Co-Chair: Dr. Artur Dubrawski, Alumni Research Professor of Computer Science, Auton Lab, Carnegie Mellon University
 - Co-Chair: Dr. Dragos Margineantu, AI Chief Technologist, Boeing Research & Technology
 
