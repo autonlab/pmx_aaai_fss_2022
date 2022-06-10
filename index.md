@@ -1,4 +1,4 @@
-## Artificial Intelligence for Predictive Maintenance on Critical Systems
+## Artificial Intelligence for Predictive Maintenance
 
 ### Description of the Symposium
 
@@ -18,15 +18,15 @@ It is time to revive it and have the community reflect of the current state of a
 
 ### Specific Areas of Interest
 
-- Readying maintenance, logistics, and/or systems data for AI
+- **Readying maintenance, logistics, and/or systems data for AI**
     - Work on curating, cleaning, featurizing, annotating, and/or sketching complex data from critical systems.
-- Analytical frameworks for critical system prognostics
+- **Analytical frameworks for critical system prognostics**
     - Work on defining predictive tasks and applying various modeling paradigms to support prognostics
-- Impact assessments of AI
+- **Impact assessments of AI**
     - Work on defining metrics of success and translating AI evaluation metrics (e.g. accuracy) into business metrics (e.g. reduced down-time).
-- Implementation Strategies
+- **Implementation Strategies**
     - Work on implementation of research and development in practice.
-- All other works using AI to maintain peak operation of cyber-phyical systems.
+- **All other works using AI to maintain peak operation of cyber-phyical systems**
 
 ### Symposium Format
 
@@ -39,7 +39,7 @@ It is time to revive it and have the community reflect of the current state of a
     - Artur Dubrawski, PhD, Alumni Research Professor of Computer Science, Carnegie Mellon University
     - TBD speaker from government sector
     - TBD speaker from industrial sector
-- **Panel Discussions**
+- **Panel Discussions** (subject to change)
     - Future of Predictive Maintenance (Panelists TBD)
     - Lessons Learned in Predictive Maintenance (Panelists TBD)
     - Student panel (Panelists TBD)
