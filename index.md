@@ -40,8 +40,9 @@ This symposium aims to bring together researchers and practitioners across acade
     - Student panel (Panelists TBD)
     - Data Privacy (Panelists TBD)
 - **Poster Session**
-    - All attendees may choose to present a poster at the symposium.
-    - A one page position paper related to the poster's topic will be reviewed by the program committee to ensure posters fall under the scope of the symposium.
+    - Attendees may participate in a poster session
+    - Participants must submit a one page position paper to be reviewed by the program committee.
+    - Submission details for position papers TBD
 
 ### Organizing Committee
 - **Chair:** Dr. Nicholas Gisolfi, Research Scientist, Auton Lab, Carnegie Mellon University
