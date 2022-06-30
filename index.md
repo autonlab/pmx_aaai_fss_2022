@@ -33,9 +33,9 @@ The symposium will feature poster sessions along with sessions of talks, organiz
     - September 23rd: Registration deadline for the symposium
     - November 17-19th: Symposium takes place at Westin Arlington Gateway in Arlington, Virginia
 - **Submission Requirements**
-    - Unpublished works. Page limits include references
-        - Main Track: manuscripts **6 pages in length**.
-        - Student Track: abstracts up to **2 pages in length**.
+    - Unpublished works. Page limits include references.
+        - Main Track: manuscripts up to a maximum of **6 pages in length**.
+        - Student Track: abstracts up to a maximum **2 pages in length**.
     - All submissions must use the [2022 AAAI AuthorKit][1]
     - All submissions will be blind reviewed.
     - Submit papers to [EasyChair][2]
