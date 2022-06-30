@@ -24,25 +24,34 @@ This symposium aims to bring together researchers and practitioners across acade
 - **Using AI to maintain peak operation of cyber-physical systems**
 
 ### Symposium Format
+The symposium will feature poster sessions along with sessions of talks, organized by topic area, to present submitted work.
 
-- **Invited Talks**
-    - The symposium will feature sessions of talks, organized by topic area, to present submitted work.
-    - Unpublished works up to **6 pages in length** are eligible for submission.
+- **Important Dates**
+    - Sunday, August 21st 11:59PM AoE (UTC -12): **Submissions due**
+    - September 8th: Authors notified
+    - September 22nd: Final papers due
+    - September 23rd: Registration deadline for the symposium
+    - November 17-19th: Symposium takes place at Westin Arlington Gateway in Arlington, Virginia
+- **Submission Requirements**
+    - Unpublished works up to **6 pages in length** are eligible for submission.  This page limit includes references.
+          - Student track: abstracts up to **2 pages in length** including references.
+    - All submissions must use the [2022 AAAI AuthorKit][1]
     - All submissions will be blind reviewed.
-    - Submit to EasyChair (link to be created shortly)
+    - Submit papers to [EasyChair][2]
+    - A proceedings of all accepted papers will be published
+    - Submission date **August 21st AoE**
+- **Accepted Talks and Poster Sessions**
+    - Program Committee will decide whether each accepted submission will be scheduled for a poster session, oral presentation, or both.
+    - Student Track - Program Committee will decide whether accepted student abstracts will be scheduled for a poster session, oral presentation, or both.
 - **Keynote Speakers**
-    - Artur Dubrawski, PhD, Alumni Research Professor of Computer Science, Carnegie Mellon University
+    - TBD speaker from academic sector
     - TBD speaker from government sector
     - TBD speaker from industrial sector
-- **Panel Discussions** (subject to change)
-    - Future of Predictive Maintenance (Panelists TBD)
-    - Lessons Learned in Predictive Maintenance (Panelists TBD)
-    - Student panel (Panelists TBD)
-    - Data Privacy (Panelists TBD)
-- **Poster Session**
-    - Attendees may participate in a poster session
-    - Participants must submit a one page position paper to be reviewed by the program committee.
-    - Submission details for position papers TBD
+- **Panel Discussions**
+    - Future of Predictive Maintenance
+    - Lessons Learned in Predictive Maintenance
+    - Student panel
+    - PMx Data - readiness for AI
 
 ### Organizing Committee
 - **Chair:** Dr. Nicholas Gisolfi, Research Scientist, Auton Lab, Carnegie Mellon University
@@ -56,4 +65,6 @@ This symposium aims to bring together researchers and practitioners across acade
 - **Co-Chair:** Dr. Artur Dubrawski, Alumni Research Professor of Computer Science, Auton Lab, Carnegie Mellon University
 - **Co-Chair:** Dr. Dragos Margineantu, AI Chief Technologist, Boeing Research & Technology
 
-[1]:<https://aaai.org/Press/Reports/Symposia/Fall/fs-07-02.php>
+[1]:<https://www.aaai.org/Publications/Templates/AuthorKit22.zip>
+[2]:<https://easychair.org/conferences/?conf=fss22>
+[3]:<https://aaai.org/Press/Reports/Symposia/Fall/fs-07-02.php>
