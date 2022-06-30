@@ -24,7 +24,7 @@ This symposium aims to bring together researchers and practitioners across acade
 - **Using AI to maintain peak operation of cyber-physical systems**
 
 ### Symposium Format
-The symposium will feature poster sessions along with sessions of talks, organized by topic area, to present submitted work.
+The symposium will feature poster sessions along with sessions of talks, organized by topic area, to present submitted work.  AI for PMx is intended to be an **in-person** event.  More details will be posted here as they become available.
 
 - **Important Dates**
     - Sunday, August 21st 11:59PM AoE (UTC -12): **Submissions due**
@@ -42,7 +42,7 @@ The symposium will feature poster sessions along with sessions of talks, organiz
     - A proceedings of all accepted papers will be published
     - Submission date **August 21st AoE**
 - **Accepted Talks and Poster Sessions**
-    - For both Main and Student Tracks, the Program Committee will decide whether each accepted submission will be scheduled for a poster session, oral presentation, or both.
+    - For both Main and Student Tracks, the Program Committee will decide whether each accepted submission will be scheduled for a poster session, oral presentation (15mins talk + 5mins Q/A), or both.
 - **Keynote Speakers**
     - TBD speaker from academic sector
     - TBD speaker from government sector
