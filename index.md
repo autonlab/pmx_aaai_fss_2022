@@ -17,8 +17,8 @@ This symposium aims to bring together researchers and practitioners across acade
     - Work on curating, cleaning, featurizing, annotating, and/or sketching complex data from critical systems.
 - **Analytical frameworks for critical system prognostics**
     - Work on defining predictive tasks and applying various modeling paradigms to support prognostics
-- **Impact assessments of AI**
-    - Work on defining metrics of success and translating AI evaluation metrics (e.g. accuracy) into business metrics (e.g. reduced down-time).
+- **Impact assessments of AI-driven Predictive Maintenance**
+    - Work on defining metrics of success and translating AI evaluation metrics (e.g., accuracy) into business and operationas metrics (e.g., reduced down-time).
 - **Implementation Strategies**
     - Work on implementation of research and development in practice.
 - **Using AI to maintain peak operation of cyber-physical systems**
@@ -27,22 +27,22 @@ This symposium aims to bring together researchers and practitioners across acade
 The symposium will feature poster sessions along with sessions of talks, organized by topic area, to present submitted work.  AI for PMx is intended to be an **in-person** event.  More details will be posted here as they become available.
 
 - **Important Dates**
-    - Sunday, August 21st 11:59PM AoE (UTC -12): **Submissions due**
-    - September 8th: Authors notified
+    - August 27th 11:59PM AoE (UTC -12): **Submissions due**
+    - September 11th: Authors notified
     - September 22nd: Final papers due
     - September 23rd: Registration deadline for the symposium
     - November 17-19th: Symposium takes place at Westin Arlington Gateway in Arlington, Virginia
 - **Submission Requirements**
-    - Unpublished works. Page limits include references.
-        - Main Track: manuscripts up to a maximum of **6 pages in length**.
-        - Student Track: abstracts up to a maximum of **2 pages in length**.
+    - Unpublished works
+        - Main Track: manuscripts up to a maximum of **6 pages in length** plus one extra page for references.
+        - Student Track: abstracts up to a maximum of **2 pages in length** including references.
     - All submissions must use the [2022 AAAI AuthorKit][1]
-    - All submissions will be blind reviewed.
-    - Submit papers to [EasyChair][2]
-    - A proceedings of all accepted papers will be published
-    - Submission date **August 21st AoE**
+    - All submissions will be double-blind reviewed
+    - Submit papers via [EasyChair][2]
+    - Proceedings of all accepted Main Track papers will be published
+    - Submission date **August 27th AoE**
 - **Accepted Talks and Poster Sessions**
-    - For both Main and Student Tracks, the Program Committee will decide whether each accepted submission will be scheduled for a poster session, oral presentation (15mins talk + 5mins Q/A), or both.
+    - For both Main and Student Tracks, the Program Committee will decide whether each accepted submission will be scheduled for a poster or oral presentation (20 minutes including Q&A), or both.
 - **Keynote Speakers**
     - TBD speaker from academic sector
     - TBD speaker from government sector
@@ -50,14 +50,14 @@ The symposium will feature poster sessions along with sessions of talks, organiz
 - **Panel Discussions**
     - Future of Predictive Maintenance
     - Lessons Learned in Predictive Maintenance
-    - Student panel
     - PMx Data - readiness for AI
-
+    - Student panel
+	
 ### Organizing Committee
 - **Chair:** Dr. Nicholas Gisolfi, Research Scientist, Auton Lab, Carnegie Mellon University
-- Dr. Artur Dubrawski, Alumni Research Professor of Computer Science, Auton Lab, Carnegie Mellon University
-- Dr. Abdel-Moez Bayoumi, Professor of Mechanical Engineering, University of South Carolina
 - Mr. David Alvord, Senior Research Engineer, Georgia Tech Research Institute
+- Dr. Abdel-Moez Bayoumi, Professor of Mechanical Engineering, University of South Carolina
+- Dr. Artur Dubrawski, Alumni Research Professor of Computer Science, Auton Lab, Carnegie Mellon University
 - Dr. Stephen Robinson, Professor of Aerospace Engineering, University of California
 
 
