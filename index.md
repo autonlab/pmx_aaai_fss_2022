@@ -50,8 +50,8 @@ The symposium will feature poster sessions along with sessions of talks, organiz
 - **Panel Discussions**
     - Future of Predictive Maintenance
     - Lessons Learned in Predictive Maintenance
-    - PMx Data - readiness for AI
-    - Student panel
+    - PMx Data - Readiness for AI
+    - Student Panel
 	
 ### Organizing Committee
 - **Chair:** Dr. Nicholas Gisolfi, Research Scientist, Auton Lab, Carnegie Mellon University
