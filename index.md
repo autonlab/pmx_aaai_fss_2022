@@ -18,7 +18,7 @@ This symposium aims to bring together researchers and practitioners across acade
 - **Analytical frameworks for critical system prognostics**
     - Work on defining predictive tasks and applying various modeling paradigms to support prognostics
 - **Impact assessments of AI-driven Predictive Maintenance**
-    - Work on defining metrics of success and translating AI evaluation metrics (e.g., accuracy) into business and operationas metrics (e.g., reduced down-time).
+    - Work on defining metrics of success and translating AI evaluation metrics (e.g., accuracy) into business and operational metrics (e.g., reduced down-time).
 - **Implementation Strategies**
     - Work on implementation of research and development in practice.
 - **Using AI to maintain peak operation of cyber-physical systems**
