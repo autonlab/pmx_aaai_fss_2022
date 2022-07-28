@@ -35,7 +35,7 @@ The symposium will feature poster sessions along with sessions of talks, organiz
 - **Submission Requirements**
     - Unpublished works
         - Main Track: manuscripts up to a maximum of **6 pages in length** plus one extra page for references.
-        - Student Track: abstracts up to a maximum of **2 pages in length** including references.
+        - Student Track: manuscripts up to a maximum of **2 pages in length** including references.
     - All submissions must use the [2022 AAAI AuthorKit][1]
     - All submissions will be double-blind reviewed
     - Submit papers via [EasyChair][2]
