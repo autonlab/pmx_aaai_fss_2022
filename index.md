@@ -1,5 +1,16 @@
 ## Artificial Intelligence for Predictive Maintenance
 
+Updated September 20 with registration details
+
+### Registration for the event
+
+AAAI handles registration for all 2022 Fall Symposia.
+[Registration Link][4]
+
+Registration is open until the start of the event, but early registration is encouraged.
+
+Please see AAAI's [Fall Symposia site][5] for more details on registration and hotels/transportation.
+
 ### Description of the Symposium
 
 Complex, physical systems degrade over time, and continued maintenance is required to ensure their peak performance.
@@ -30,7 +41,8 @@ The symposium will feature poster sessions along with sessions of talks, organiz
     - August 27th 11:59PM AoE (UTC -12): **Submissions due**
     - September 11th: Authors notified
     - September 22nd: Final papers due
-    - September 23rd: Registration deadline for the symposium
+    - September 23rd: Registration for accepted papers
+    - November 15: Registration closes
     - November 17-19th: Symposium takes place at Westin Arlington Gateway in Arlington, Virginia
 - **Submission Requirements**
     - Unpublished works
@@ -68,3 +80,5 @@ The symposium will feature poster sessions along with sessions of talks, organiz
 [1]:<https://www.aaai.org/Publications/Templates/AuthorKit22.zip>
 [2]:<https://easychair.org/conferences/?conf=fss22>
 [3]:<https://aaai.org/Press/Reports/Symposia/Fall/fs-07-02.php>
+[4]:<https://aaaiconf.cventevents.com/event/0445ff12-02ef-42b4-b611-c74a0fdb4854/summary>
+[5]:<https://www.aaai.org/Symposia/Fall/fss22.php>
