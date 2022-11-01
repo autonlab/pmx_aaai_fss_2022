@@ -1,11 +1,13 @@
 ## Artificial Intelligence for Predictive Maintenance
 
 Updated November 1 with draft schedule link
+
 Updated September 20 with registration details
 
 ### Schedule for the event
 A [Draft Schedule][6] shows the structure of the event.
 We have 2.5 days of programming including keynotes, talks, panels, and a poster session.
+
 A full schedule including talk order and speaker, affiliation, and abstracts will be released when all details are complete.
 
 ### Registration for the event
