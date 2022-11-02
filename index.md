@@ -42,14 +42,12 @@ This symposium aims to bring together researchers and practitioners across acade
 - **Using AI to maintain peak operation of cyber-physical systems**
 
 ### Symposium Format
-The symposium will feature poster sessions along with sessions of talks, organized by topic area, to present submitted work.  AI for PMx is intended to be an **in-person** event.  More details will be posted here as they become available.
+The symposium will feature poster sessions along with sessions of talks, organized by topic area, to present submitted work.  AI for PMx is an **in-person** event.
 
 - **Important Dates**
     - August 27th 11:59PM AoE (UTC -12): **Submissions due**
     - September 11th: Authors notified
     - September 22nd: Final papers due
-    - September 23rd: Registration for accepted papers
-    - November 15: Registration closes
     - November 17-19th: Symposium takes place at Westin Arlington Gateway in Arlington, Virginia
 - **Submission Requirements**
     - Unpublished works
@@ -61,23 +59,17 @@ The symposium will feature poster sessions along with sessions of talks, organiz
     - Proceedings of all accepted Main Track papers will be published
     - Submission date **August 27th AoE**
 - **Accepted Talks and Poster Sessions**
-    - For both Main and Student Tracks, the Program Committee will decide whether each accepted submission will be scheduled for a poster or oral presentation (20 minutes including Q&A), or both.
+    - For both Main and Student Tracks, the Program Committee will decide whether each accepted submission will be scheduled for a poster or oral presentation, or both.
 - **Keynote Speakers**
-    - TBD speaker from academic sector
-    - TBD speaker from government sector
-    - TBD speaker from industrial sector
 - **Panel Discussions**
-    - Future of Predictive Maintenance
-    - Lessons Learned in Predictive Maintenance
-    - PMx Data - Readiness for AI
-    - Student Panel
+	- Challenges and Strategiees for Implementing AI-Driven PMx
+    - AI-Readiness in Predictive Maintenance Application Contexts
 	
 ### Organizing Committee
 - **Chair:** Dr. Nicholas Gisolfi, Research Scientist, Auton Lab, Carnegie Mellon University
 - Mr. David Alvord, Senior Research Engineer, Georgia Tech Research Institute
 - Dr. Abdel-Moez Bayoumi, Professor of Mechanical Engineering, University of South Carolina
 - Dr. Artur Dubrawski, Alumni Research Professor of Computer Science, Auton Lab, Carnegie Mellon University
-- Dr. Stephen Robinson, Professor of Aerospace Engineering, University of California
 
 
 ### Program Committee
