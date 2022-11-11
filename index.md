@@ -1,11 +1,13 @@
 ## Artificial Intelligence for Predictive Maintenance
 
+Updated November 11 with full schedule link
+
 Updated November 1 with draft schedule link
 
 Updated September 20 with registration details
 
 ### Schedule for the event
-Link to the [schedule][6] outline
+Link to the full [schedule][6]
 
 A full schedule including talk order and speaker, affiliation, and abstracts will be released shortly, when all details are complete.
 
@@ -81,4 +83,4 @@ The symposium will feature poster sessions along with sessions of talks, organiz
 [3]:<https://aaai.org/Press/Reports/Symposia/Fall/fs-07-02.php>
 [4]:<https://aaaiconf.cventevents.com/event/0445ff12-02ef-42b4-b611-c74a0fdb4854/summary>
 [5]:<https://www.aaai.org/Symposia/Fall/fss22.php>
-[6]:<https://docs.google.com/document/d/1IKfQlMQ70AB3TIEHeC35_7mZ-3kVLf8gaI8G3GpwEeE/edit?usp=sharing>
+[6]:<https://docs.google.com/document/d/1yrhOxAPAjmxvDq7FFIVv09r1gMFeU7u4HOBIROg-K2c/edit?usp=sharing>
