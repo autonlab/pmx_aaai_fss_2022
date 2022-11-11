@@ -9,8 +9,6 @@ Updated September 20 with registration details
 ### Schedule for the event
 Link to the full [schedule][6]
 
-A full schedule including talk order and speaker, affiliation, and abstracts will be released shortly, when all details are complete.
-
 ### Registration for the event
 
 AAAI handles registration for all 2022 Fall Symposia.
